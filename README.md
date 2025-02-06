@@ -56,9 +56,8 @@ The connection diagram is available in the `Hardware/` folder. Here's an overvie
 2. **Upload the Arduino Code** (`Arduino-Code/spd_dir_temp_hum_pres_v2.ino`).
 
 ## Usage
-1. **Power on the Arduino**.
-2. **Monitor the serial output** in the Arduino IDE.
-3. **Log data** for analysis.
+**Monitor the serial output** in the Arduino IDE.
+
 
 ## License
 This project is licensed under the **MIT License**.
@@ -67,7 +66,7 @@ This project is licensed under the **MIT License**.
 Feel free to fork this repository and submit pull requests for improvements.
 
 ## Author
-- **Your Name** (Replace with your name & GitHub username)
+- **TA2BSS**
 
 ---
 
