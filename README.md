@@ -22,7 +22,7 @@ This project is a **weather monitoring station** using **Arduino Uno** with the 
 | **12V Power Supply** | Powering the Sensors |
 
 ## Wiring Diagram
-The connection diagram is available in the `Hardware/` folder. Here's an overview:
+The connection diagram is available.
 
 ### **Wind Speed & Wind Direction Sensors (RS485)**
 - **VCC** → **12V DC** (10-30 V DC)
@@ -67,20 +67,3 @@ Feel free to fork this repository and submit pull requests for improvements.
 
 ## Author
 - **TA2BSS**
-
----
-
-### Repository Structure
-```
-Meteorology-Station/
-│── README.md                # Project Overview
-│── LICENSE                  # License File
-│── .gitignore               # Ignored Files
-│── Arduino-Code/            # Code files
-│   └── spd_dir_temp_hum_pres_v2.ino
-│── Hardware/                # Connection diagrams and images
-│   ├── Connection2.docx
-│   ├── extracted_diagram.png
-│── Docs/                    # Additional Documentation
-│── Dependencies/            # Required Libraries
-```
