@@ -18,14 +18,14 @@ This project is a **weather monitoring station** using **Arduino Uno** with the 
 | **BME280** | Temp, Humidity & Pressure Sensor |
 | **PR-3000-FSJT-N01** | RS485 Wind Speed Sensor |
 | **ZTS-3000-FXJT-N01** | RS485 Wind Direction Sensor |
-| **MAX485** | RS485 to TTL Converter |
+| **MAX485** | RS485 to TTL Converter (x2)|
 | **12V Power Supply** | Powering the Sensors |
 
 ## Wiring Diagram
 The connection diagram is available in the `Hardware/` folder. Here's an overview:
 
 ### **Wind Speed & Wind Direction Sensors (RS485)**
-- **VCC** → **12V DC**
+- **VCC** → **12V DC** (10-30 V DC)
 - **GND** → **Ground**
 - **A** → **RS485 Converter A**
 - **B** → **RS485 Converter B**
